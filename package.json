@@ -1,0 +1,11 @@
+{
+  "name": "random-choice-picker",
+  "version": "1.0.0",
+  "description": "simple app to make random choice between a number of options",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgi Yordanov",
+  "license": "ISC"
+}
